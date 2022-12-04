@@ -1,0 +1,18 @@
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\bin\Debug\ShapesInheritanceExample.exe.config
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.csprojResolveAssemblyReference.cache
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.Form1.resources
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.Properties.Resources.resources
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.csproj.GenerateResource.Cache
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\bin\Debug\ShapesInheritanceExample.exe
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\bin\Debug\ShapesInheritanceExample.pdb
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.exe
+C:\Users\Duncan\Google Drive\Work\Source\VisualStudio2010\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.pdb
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\bin\Debug\ShapesInheritanceExample.exe.config
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\bin\Debug\ShapesInheritanceExample.exe
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\bin\Debug\ShapesInheritanceExample.pdb
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.csprojResolveAssemblyReference.cache
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.Form1.resources
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.Properties.Resources.resources
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.csproj.GenerateResource.Cache
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.exe
+C:\Temp\ShapesInheritanceExample\ShapesInheritanceExample\obj\Debug\ShapesInheritanceExample.pdb
